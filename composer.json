@@ -1,5 +1,5 @@
 {
-    "name": "task-management-api",
+    "name": "kurobe2240/task-management-api",
     "description": "シンプルなタスク管理APIアプリケーション",
     "type": "project",
     "require": {
