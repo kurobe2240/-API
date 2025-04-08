@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 環境設定ファイル
+.env
+.env.local
+
+# PHPデバッグファイル
+test_debug.php
+test_db_simple.php
+test_result.txt
+init_result.txt
+
+# 依存パッケージ
+vendor/
+
+# ビルド成果物
+/client/dist
+/client/build
+
+# エディタ設定
+*.sublime-project
+*.sublime-workspace
+
+# OS生成ファイル
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PHPデバッグファイル
+phpunit.xml
+*.swp
+*.bak
+*.cache 
